@@ -629,7 +629,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 8rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
@@ -674,7 +674,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 8rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
@@ -1034,7 +1034,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 10rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
@@ -1082,7 +1082,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 10rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
@@ -1131,7 +1131,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 10rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
@@ -1198,7 +1198,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 13rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
@@ -1280,7 +1280,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 13rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
@@ -1331,7 +1331,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 13rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
@@ -1381,7 +1381,7 @@ body{
     .stickyslika{
         position: -webkit-sticky;
         position: sticky;
-        top: 13rem;
+        top: 10%;
         z-index: 10;
         margin-bottom: 100px;
     }
