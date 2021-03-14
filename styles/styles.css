@@ -460,6 +460,9 @@ body{
         margin-right: -30px;
         margin-top: 130px;
     }
+    .body{
+        overflow-x: hidden;
+    }
 }
 @media all and (max-width:1800px){   
     .tekst1, .tekst2, .tekst3, .tekst4{
